@@ -1,6 +1,6 @@
 # Edtube
 
-A new Flutter application.
+An Android Application developed using Flutter( the current version is just the front-end proposal for the app). It is going to be an OTT platform for learning new skills. You can take multiple courses, the app will show you your progress and how many weeks are left for the completion of the course.
 
 ## Getting Started
 
