@@ -17,3 +17,9 @@ samples, guidance on mobile development, and a full API reference.
 
 ### Some Screenshots of the project
 https://github.com/YuvrajPSThakur/OTT-platform-for-learning/blob/master/Screenshot_1593285401.png
+https://github.com/YuvrajPSThakur/OTT-platform-for-learning/blob/master/Screenshot_1607426156.png
+https://github.com/YuvrajPSThakur/OTT-platform-for-learning/blob/master/Screenshot_1607426509.png
+https://github.com/YuvrajPSThakur/OTT-platform-for-learning/blob/master/Screenshot_1607426520.png
+
+You can also download the demo video from following link (download the raw file):
+https://github.com/YuvrajPSThakur/OTT-platform-for-learning/blob/master/edtube%20video.webm
