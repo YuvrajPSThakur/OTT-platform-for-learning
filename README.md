@@ -1,4 +1,4 @@
-# edtube
+# Edtube
 
 A new Flutter application.
 
